@@ -1,0 +1,25 @@
+{
+  "name": "standard-naming-server",
+  "version": "1.0.0",
+  "description": "standard naming server for BA in EDH KBTG team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phakphumi/standard-naming-server.git"
+  },
+  "keywords": [
+    "standard-naming"
+  ],
+  "author": "pakpoom thaweesitthichat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phakphumi/standard-naming-server/issues"
+  },
+  "homepage": "https://github.com/phakphumi/standard-naming-server#readme",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
