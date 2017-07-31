@@ -2,7 +2,7 @@
   "name": "standard-naming-server",
   "version": "1.0.0",
   "description": "standard naming server for BA in EDH KBTG team",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/phakphumi/standard-naming-server#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "mysql": "^2.13.0"
   }
 }
